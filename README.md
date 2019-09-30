@@ -10,3 +10,5 @@ sorted by last name, enter string to search for entries that start with that str
 
 Return code 1: input file failed to open.
 Return code 2: bad menu input or some other issue with the menu's switch
+
+Written on Eclipse photon with g++ compiler
